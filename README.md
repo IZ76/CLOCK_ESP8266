@@ -31,6 +31,6 @@
 Файл прошивки треба завантажити за адресою 0х00, а файлову систему LittleFS за адресою 0х200000
 
 https://imgbb.com/FYsGKXn
-<a href="https://ibb.co/mtZmWcC"><img src="https://i.ibb.co/mtZmWcC/image.jpg" alt="image" border="0"></a>
+
 
 <a href="https://ibb.co/mtZmWcC"><img src="https://i.ibb.co/ft6bwxY/image.jpg" alt="image" border="0"></a>
